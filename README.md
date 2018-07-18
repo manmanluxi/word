@@ -1,0 +1,2 @@
+# word
+welcome GitHub
